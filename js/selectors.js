@@ -2,3 +2,7 @@
 function paragraphSelector(){
   return $('p');
 }
+
+function paragraphSelector(){
+  return $('p');
+}
